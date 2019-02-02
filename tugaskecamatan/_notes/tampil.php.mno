@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:No KK;datatype:string,name:NIK;datatype:string,name:Nama;datatype:string,name:Tempat Tanggal Lahir;datatype:string,name:Jenis Kelamin;datatype:string,name:Golongan Darah;datatype:string,name:Alamat;datatype:string,name:RT RW;datatype:string,name:Kelurahan;datatype:string,name:Kecamatan;datatype:string,name:Agama;datatype:string,name:Status Perkawinan;datatype:string,name:Kewarganegaraan;datatype:string,name:Status Keluarga;datatype:string,name:Pekerjaan;datatype:string,name:Penghasilan Perbulan;datatype:string" />
+</info>
